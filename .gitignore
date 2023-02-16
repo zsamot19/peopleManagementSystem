@@ -16,7 +16,7 @@ $RECYCLE.BIN/
 !.gitignore
 !.git*
 *~
-.idea
+!.idea
 
 ### OSX ###
 .DS_Store
